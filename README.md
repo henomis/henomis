@@ -1,6 +1,6 @@
 👨‍💻 Senior Backend Developer at UFirst | ☁️ Cloud Adept | 🐧Linux/IoT Expert | 🏝️ Full-remote Addicted | ✍️ Content Creator
 
-[![Blog - simonevellei.com](https://img.shields.io/badge/Blog-simonevellei.com-2ea44f?style=for-the-badge)](https://simonevellei.com) [![simonevellei](https://img.shields.io/badge/simonevellei-000000?style=for-the-badge&logo=x)](https://simonevellei.com) [![simonevellei](https://img.shields.io/badge/simonevellei-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simonevellei)
+[![Blog - simonevellei.com](https://img.shields.io/badge/Blog-simonevellei.com-2ea44f?style=for-the-badge)](https://simonevellei.com) [![simonevellei](https://img.shields.io/badge/simonevellei-000000?style=for-the-badge&logo=x)](https://twitter.com/simonevellei) [![simonevellei](https://img.shields.io/badge/simonevellei-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simonevellei)
 
 ![Henomis's github stats](https://github-readme-stats.vercel.app/api?username=henomis&show_icons=true) 
 
